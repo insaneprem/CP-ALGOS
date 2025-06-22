@@ -1,0 +1,2 @@
+step1: Bring them to Same level using Binary lifting
+step2: Move a and b to every unequal node (16 to zero)
