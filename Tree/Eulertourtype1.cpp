@@ -9,7 +9,7 @@ int idx = 0;
 void dfs(int node, int parent, vector<int> adj[])
 {
     if (mpp.find(node) == mpp.end())
-        mpp[node] = idx;
+        mpp[node] = idx;  
     flat.push_back(node);
     idx++;
 
